@@ -3,7 +3,7 @@
 
 ----------------------
 
-To test run it as a Django app:
+To test, run it as a Django app:
 ```
 pythom manage.py runserver
 ```
